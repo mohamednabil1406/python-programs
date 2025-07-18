@@ -12,3 +12,6 @@ if is_palindrome:
     print("List is a palindrome")
 else:
     print("List is not a palindrome")
+
+# output
+# pallindrome

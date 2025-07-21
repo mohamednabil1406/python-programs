@@ -5,4 +5,4 @@ def pyramid_pattern(n):
         spaces = '  ' * (n - i)
         stars = '* ' * (2 * i - 1)
         print(spaces + stars)
-pyramid_pattern(5)
+pyramid_pattern(5//

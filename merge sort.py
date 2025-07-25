@@ -10,7 +10,7 @@ def mergesort(arr):
 
         # Step 2: Merge using two pointers
         lp = 0  # left pointer
-        rp = 0  # right pointer
+        rp = 0 # right pointer
         fp = 0  # final pointer (for merged array)
 
         # Compare and merge
